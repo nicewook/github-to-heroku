@@ -1,0 +1,1 @@
+web: bin/github-to-heroku
